@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Bereket Tadesse
 
-<!--
-**BereketTadesse/BereketTadesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Analyst | Machine Learning Enthusiast**  
 
-Here are some ideas to get you started:
+I am a **Data Analyst** passionate about transforming data into meaningful insights and building data-driven solutions. My expertise spans **data visualization, statistical analysis, and business intelligence**, while I’m also exploring **Machine Learning (ML), AI, and automation** to enhance decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Tech Stack & Tools
+- 💻 **Languages**: Python | R | SQL  
+- 📊 **Data Analysis & Visualization**: Pandas | NumPy | Power BI | Tableau | Matplotlib | Seaborn  
+- 📈 **Machine Learning**: Scikit-learn | TensorFlow | PyTorch | XGBoost  
+- 📦 **Big Data & Databases**: PostgreSQL | MySQL | Google BigQuery  
+
+--
+
+## 📚 Currently Learning
+- 📖 **Advanced Machine Learning & AI** – LLMs, NLP, and chatbot development   
+- 📖 **Deep Learning** – Exploring neural networks, CNNs, and transformers  
+
+---
+
+## 📫 Connect with Me!
+- 💼 https://www.linkedin.com/in/bereket-tadesse-953150282/(#)  
+- 📧 berekettade7@gmail.com(#)  
+
+Let's collaborate on **Data Science & ML projects**! 🚀  
