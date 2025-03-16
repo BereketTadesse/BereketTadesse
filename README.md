@@ -2,7 +2,7 @@
 
 🚀 **Data Analyst | Machine Learning Enthusiast**  
 
-I am a **Data Analyst** passionate about transforming data into meaningful insights and building data-driven solutions. My expertise spans **data visualization, statistical analysis, and business intelligence**, while I’m also exploring **Machine Learning (ML), AI, and automation** to enhance decision-making.
+I am a **Data Analyst** passionate about transforming data into meaningful insights and building data-driven solutions. My expertise spans **data visualization, statistical analysis, and business intelligence**, while I’m also exploring **Machine Learning (ML), AI** to enhance decision-making.
 
 ---
 
@@ -24,4 +24,4 @@ I am a **Data Analyst** passionate about transforming data into meaningful insig
 - 💼 https://www.linkedin.com/in/bereket-tadesse-953150282/
 - 📧 berekettade7@gmail.com
 
-Let's collaborate on **Data Science & ML projects**! 🚀  
+Let's collaborate on **Data Analysis & ML projects**! 🚀  
