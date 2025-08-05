@@ -21,7 +21,7 @@ I am a **Data Analyst** passionate about transforming data into meaningful insig
 ---
 
 ## 📫 Connect with Me!
-- 💼 https://www.linkedin.com/in/bereket-tadesse-953150282/
+- 💼 https://www.linkedin.com/in/bereket-tadesse-72b237232/
 - 📧 berekettade7@gmail.com
 
 Let's collaborate on **Data Analysis & ML projects**! 🚀  
