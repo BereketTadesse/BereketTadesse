@@ -144,10 +144,7 @@ CI/CD                    ████████████████░░�
 # 🎯 Currently Focused On
 
 * ⚙️ Advanced **Backend Architecture**
-* 🔐 Authentication & Authorization
 * 📦 Microservices
-* 🐳 Docker & Containerized Applications
-* 🚀 CI/CD & Automated Deployment
 * ⚡ API Performance Optimization
 * 🗄️ Database Design & Optimization
 * 🤖 AI-powered Backend Applications
