@@ -1,98 +1,178 @@
-# Hey 👋, I'm Bereket Tadesse
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%7C+TypeScript+%7C+FastAPI;Building+Scalable+REST+APIs;AI+%26+LLM+Integration+%F0%9F%A4%96;Docker+%7C+CI%2FCD+%7C+GitHub+Actions" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bereket%20Tadesse&fontSize=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
+<h2 align="center">👋 Hi, I'm Bereket Tadesse</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9A%80;Building+Scalable+REST+APIs+%E2%9A%A1;Node.js+%7C+TypeScript+%7C+FastAPI;Docker+%7C+CI%2FCD+%7C+GitHub+Actions;AI+%26+LLM+Integration+%F0%9F%A4%96"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/BereketTadesse">
-    <img src="https://komarev.com/ghpvc/?username=BereketTadesse&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/BereketTadesse?tab=followers">
-    <img src="https://img.shields.io/github/followers/BereketTadesse?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
-  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=BereketTadesse&label=Profile%20Views&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/BereketTadesse?label=Followers&style=for-the-badge&logo=github"
+    alt="Followers"
+  />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<img
+align="right"
+alt="Backend Developer Coding"
+width="390"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+/>
 
-I'm a **Backend Developer** focused on building scalable APIs, reliable backend systems, and production-ready applications.
+### 👨‍💻 About Me
 
-I enjoy designing clean backend architectures, working with relational and NoSQL databases, integrating AI services, and deploying applications using modern DevOps practices.
+I'm a **Backend Developer from Ethiopia 🇪🇹** passionate about building reliable, scalable, and production-ready backend systems.
 
-* 🚀 Building **scalable RESTful APIs and backend systems**
-* ⚡ Working with **Node.js, Express.js, TypeScript & FastAPI**
+* 🚀 I build **RESTful APIs & backend services**
+* ⚡ Working with **Node.js, Express, TypeScript & FastAPI**
 * 🌐 Building modern applications with **Next.js**
 * 🗄️ Working with **PostgreSQL, MySQL, MongoDB & Redis**
-* 🔗 Using **Prisma, TypeORM, Mongoose & Drizzle ORM**
-* 🤖 Integrating **OpenAI, Gemini, LangChain & ML models**
-* 🐳 Containerizing applications using **Docker**
+* 🔗 Using **Prisma, TypeORM, Mongoose & Drizzle**
+* 🐳 Containerizing applications with **Docker**
 * ⚙️ Building **CI/CD pipelines with GitHub Actions**
-* 🧠 Interested in **Backend Architecture, AI Engineering & DevOps**
-* 📚 Continuously learning and improving my software engineering skills
+* 🤖 Exploring **AI, LLMs, RAG & intelligent backend systems**
+* 💡 Interested in **Backend Architecture, Microservices & DevOps**
+* 🤝 Open to **Backend, AI and Open-Source collaborations**
 
----
+<br clear="right"/>
 
-# 🛠️ Tech Stack
 
-## 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+<p align="center">
+  <b>⚡ Turning ideas into scalable APIs, intelligent systems, and production-ready software.</b>
 </p>
 
-## ⚙️ Backend & Frameworks
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs" />
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
+
+### 🐍 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
 </p>
 
-## 🗄️ Databases
+</td>
 
-<p align="left">
+<td align="center" width="50%">
+
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,react" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🗄️ Databases
+
+<p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-## 🔗 ORM & Database Tools
+</td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prisma" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000000" alt="Drizzle ORM" />
-</p>
+<td align="center" width="50%">
 
-## 🤖 AI / LLM
+### ☁️ DevOps & Infrastructure
 
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face" />
-</p>
-
-## 🚀 DevOps & Deployment
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🛠️ Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,github" />
 </p>
 
-## 🔧 Development Tools
+</td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman" />
+<td align="center" width="50%">
+
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 </p>
 
----
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h3 align="center">🤖 AI • LLM • Intelligent Systems</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge&logo=semanticweb&logoColor=white" />
+</p>
+
+<br>
+
+<h3 align="center">🔗 ORM & Data Layer</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prisma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+</p>
+
+<br>
+
+<h3 align="center">🚀 Architecture & Deployment</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 # 🚀 What I Do
 
@@ -120,26 +200,7 @@ CI/CD                    ████████████████░░�
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BereketTadesse&show_icons=true&hide_border=true&count_private=true" alt="Bereket's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BereketTadesse&hide_border=true" alt="Bereket's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BereketTadesse&layout=compact&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BereketTadesse&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
 
 # 🎯 Currently Focused On
 
@@ -149,27 +210,24 @@ CI/CD                    ████████████████░░�
 * 🗄️ Database Design & Optimization
 * 🤖 AI-powered Backend Applications
 * 🧠 RAG & LLM Applications
-
+  
 ---
-
-# 🤝 Let's Connect
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bereket-tadesse-72b237232/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bereket%20Tadesse-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Bereket%20Tadesse-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="https://github.com/BereketTadesse">
-    <img src="https://img.shields.io/badge/GitHub-BereketTadesse-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/GitHub-BereketTadesse-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <b>💡 Building scalable backends, intelligent APIs, and software that solves real-world problems.</b>
-</p>
-
-<p align="center">
-  ⭐ From <a href="https://github.com/BereketTadesse">Bereket Tadesse</a>
-</p>
