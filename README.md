@@ -38,16 +38,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend Developer from Ethiopia 🇪🇹** passionate about building reliable, scalable, and production-ready backend systems.
+I'm a **Backend Developer from Ethiopia 🇪🇹** focused on building reliable, scalable, and production-ready backend systems.
 
-- 🚀 I build **RESTful APIs & backend services**
+- 🚀 Building **RESTful APIs & backend services**
 - ⚡ Working with **Node.js, NestJS, Express, TypeScript & FastAPI**
 - 🌐 Building modern applications with **Next.js**
 - 🗄️ Working with **PostgreSQL, MySQL, MongoDB & Redis**
 - 🔗 Using **Prisma, TypeORM, Mongoose & Drizzle**
 - 🐳 Containerizing applications with **Docker**
 - ⚙️ Building **CI/CD pipelines with GitHub Actions**
-- 🤖 Exploring **AI, LLMs, RAG & intelligent backend systems**
+- 🤖 Integrating **AI, LLMs & RAG into backend systems**
 - 💡 Interested in **Backend Architecture, Microservices & DevOps**
 - 🤝 Open to **Backend, AI and Open-Source collaborations**
 
@@ -69,17 +69,17 @@ Production-oriented personal finance API designed around Ethiopian banking and m
 
 ### Key Features
 
-* Automated SMS transaction ingestion
-* Parsers for CBE, Telebirr, Bank of Abyssinia, and Dashen Bank
-* JWT authentication
-* Secure webhook processing
-* HMAC signature verification
-* Idempotent transaction processing
-* Concurrency-safe balance updates
-* Budget tracking and email alerts
-* Financial analytics
-* Cursor-based pagination
-* Docker support
+- Automated SMS transaction ingestion
+- Parsers for CBE, Telebirr, Bank of Abyssinia, and Dashen Bank
+- JWT authentication
+- Secure webhook processing
+- HMAC signature verification
+- Idempotent transaction processing
+- Concurrency-safe balance updates
+- Budget tracking and email alerts
+- Financial analytics
+- Cursor-based pagination
+- Docker support
 
 🔗 [View Repository](https://github.com/BereketTadesse/expense-tracker-api)
 
@@ -93,12 +93,12 @@ Backend API that analyzes disaster incidents using GPS coordinates, demographic 
 
 ### Key Features
 
-* GPS-based incident reporting
-* Reverse geocoding
-* Ethiopian woreda matching
-* Demographic data enrichment
-* AI-assisted urgency classification
-* Local fallback rules when AI services are unavailable
+- GPS-based incident reporting
+- Reverse geocoding
+- Ethiopian woreda matching
+- Demographic data enrichment
+- AI-assisted urgency classification
+- Local fallback rules when AI services are unavailable
 
 🔗 [View Repository](https://github.com/BereketTadesse/CDRP_Disaster_riage_Agent)
 
@@ -112,24 +112,16 @@ Machine-learning project for detecting fraudulent transactions across e-commerce
 
 ### Key Features
 
-* Exploratory data analysis
-* Fraud-oriented feature engineering
-* IP geolocation analysis
-* Imbalanced-data handling
-* Logistic Regression and XGBoost
-* ROC-AUC and AUC-PR evaluation
-* Threshold optimization
-* Model comparison
+- Exploratory data analysis
+- Fraud-oriented feature engineering
+- IP geolocation analysis
+- Imbalanced-data handling
+- Logistic Regression and XGBoost
+- ROC-AUC and AUC-PR evaluation
+- Threshold optimization
+- Model comparison
 
 🔗 [View Repository](https://github.com/BereketTadesse/FraudDetection-for-ecommerce-and-BankTransactions)
-
----
-
-## 🏥 Ethiopian Clinic Appointment System
-
-Backend-oriented application for managing clinic appointments and healthcare workflows.
-
-🔗 [View Repository](https://github.com/BereketTadesse/ethiopian-clinic-appointment-system)
 
 ---
 
@@ -197,15 +189,16 @@ Backend-oriented application for managing clinic appointments and healthcare wor
   <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge" />
 </p>
 
-* Machine Learning
-* LLM API Integration
-* Retrieval-Augmented Generation
-* Pandas
-* Scikit-learn
-* XGBoost
-* AI-powered backend systems
+- Machine Learning
+- LLM API Integration
+- Retrieval-Augmented Generation
+- Pandas
+- Scikit-learn
+- XGBoost
+- AI-powered backend systems
 
 ---
+
 
 # 🔧 Backend Areas I Work With
 
