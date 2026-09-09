@@ -219,14 +219,14 @@ LLM / AI Integration
 
 # 🎯 Currently Improving
 
-* Backend architecture
-* API scalability
-* PostgreSQL optimization
-* Microservices
-* Automated testing
-* CI/CD
-* Production deployment
-* AI-powered backend systems
+- Backend architecture
+- API scalability and performance
+- PostgreSQL optimization
+- Microservices
+- Automated testing
+- Production deployment
+- Observability and monitoring
+- AI-powered backend systems
 
 ---
 
