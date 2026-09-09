@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9A%80;Building+Scalable+REST+APIs+%E2%9A%A1;Node.js+%7C+TypeScript+%7C+FastAPI;Docker+%7C+CI%2FCD+%7C+GitHub+Actions;AI+%26+LLM+Integration+%F0%9F%A4%96"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Building+Scalable+REST+APIs+%E2%9A%A1;Node.js+%7C+TypeScript+%7C+NestJS+%7C+FastAPI;PostgreSQL+%7C+Docker+%7C+CI%2FCD;AI+%26+LLM+Integration+%F0%9F%A4%96"
     alt="Typing SVG"
   />
 </p>
@@ -30,63 +30,123 @@
 ---
 
 <img
-align="right"
-alt="Backend Developer Coding"
-width="390"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+  align="right"
+  alt="Backend Developer Coding"
+  width="390"
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
 />
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a **Backend Developer from Ethiopia 🇪🇹** passionate about building reliable, scalable, and production-ready backend systems.
 
-* 🚀 I build **RESTful APIs & backend services**
-* ⚡ Working with **Node.js, Express, TypeScript & FastAPI**
-* 🌐 Building modern applications with **Next.js**
-* 🗄️ Working with **PostgreSQL, MySQL, MongoDB & Redis**
-* 🔗 Using **Prisma, TypeORM, Mongoose & Drizzle**
-* 🐳 Containerizing applications with **Docker**
-* ⚙️ Building **CI/CD pipelines with GitHub Actions**
-* 🤖 Exploring **AI, LLMs, RAG & intelligent backend systems**
-* 💡 Interested in **Backend Architecture, Microservices & DevOps**
-* 🤝 Open to **Backend, AI and Open-Source collaborations**
+- 🚀 I build **RESTful APIs & backend services**
+- ⚡ Working with **Node.js, NestJS, Express, TypeScript & FastAPI**
+- 🌐 Building modern applications with **Next.js**
+- 🗄️ Working with **PostgreSQL, MySQL, MongoDB & Redis**
+- 🔗 Using **Prisma, TypeORM, Mongoose & Drizzle**
+- 🐳 Containerizing applications with **Docker**
+- ⚙️ Building **CI/CD pipelines with GitHub Actions**
+- 🤖 Exploring **AI, LLMs, RAG & intelligent backend systems**
+- 💡 Interested in **Backend Architecture, Microservices & DevOps**
+- 🤝 Open to **Backend, AI and Open-Source collaborations**
 
 <br clear="right"/>
-
-
 
 <p align="center">
   <b>⚡ Turning ideas into scalable APIs, intelligent systems, and production-ready software.</b>
 </p>
 
-## 🛠️ Tech Stack
+---
+
+# 🚀 Featured Projects
+
+## 💰 Expense Tracker API
+
+Production-oriented personal finance API designed around Ethiopian banking and mobile-wallet transactions.
+
+**Tech:** NestJS · TypeScript · PostgreSQL · TypeORM · Docker
+
+### Key Features
+
+* Automated SMS transaction ingestion
+* Parsers for CBE, Telebirr, Bank of Abyssinia, and Dashen Bank
+* JWT authentication
+* Secure webhook processing
+* HMAC signature verification
+* Idempotent transaction processing
+* Concurrency-safe balance updates
+* Budget tracking and email alerts
+* Financial analytics
+* Cursor-based pagination
+* Docker support
+
+🔗 [View Repository](https://github.com/BereketTadesse/expense-tracker-api)
+
+---
+
+## 🌍 Disaster Triage Agent
+
+Backend API that analyzes disaster incidents using GPS coordinates, demographic data, geolocation, and AI-assisted classification.
+
+**Tech:** Python · FastAPI · Pandas · Gemini API · Geopy
+
+### Key Features
+
+* GPS-based incident reporting
+* Reverse geocoding
+* Ethiopian woreda matching
+* Demographic data enrichment
+* AI-assisted urgency classification
+* Local fallback rules when AI services are unavailable
+
+🔗 [View Repository](https://github.com/BereketTadesse/CDRP_Disaster_riage_Agent)
+
+---
+
+## 🛡️ Fraud Detection for E-commerce & Banking
+
+Machine-learning project for detecting fraudulent transactions across e-commerce and banking datasets.
+
+**Tech:** Python · Pandas · Scikit-learn · XGBoost
+
+### Key Features
+
+* Exploratory data analysis
+* Fraud-oriented feature engineering
+* IP geolocation analysis
+* Imbalanced-data handling
+* Logistic Regression and XGBoost
+* ROC-AUC and AUC-PR evaluation
+* Threshold optimization
+* Model comparison
+
+🔗 [View Repository](https://github.com/BereketTadesse/FraudDetection-for-ecommerce-and-BankTransactions)
+
+---
+
+## 🏥 Ethiopian Clinic Appointment System
+
+Backend-oriented application for managing clinic appointments and healthcare workflows.
+
+🔗 [View Repository](https://github.com/BereketTadesse/ethiopian-clinic-appointment-system)
+
+---
+
+# 🛠️ Tech Stack
 
 <table align="center">
 <tr>
 
 <td align="center" width="50%">
 
-### 🐍 Languages
+### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,fastapi,python" />
 </p>
 
 </td>
-
-<td align="center" width="50%">
-
-### ⚙️ Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,react" />
-</p>
-
-</td>
-
-</tr>
-
-<tr>
 
 <td align="center" width="50%">
 
@@ -98,9 +158,13 @@ I'm a **Backend Developer from Ethiopia 🇪🇹** passionate about building rel
 
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="50%">
 
-### ☁️ DevOps & Infrastructure
+### ☁️ DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
@@ -108,26 +172,12 @@ I'm a **Backend Developer from Ethiopia 🇪🇹** passionate about building rel
 
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center" width="50%">
 
-### 🛠️ Tools & Environment
+### 🌐 Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,github" />
-</p>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌐 Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
 </p>
 
 </td>
@@ -135,84 +185,59 @@ I'm a **Backend Developer from Ethiopia 🇪🇹** passionate about building rel
 </tr>
 </table>
 
-<br>
+---
 
-<h3 align="center">🤖 AI • LLM • Intelligent Systems</h3>
+## 🤖 AI & Data
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge" />
 </p>
 
-<br>
+* Machine Learning
+* LLM API Integration
+* Retrieval-Augmented Generation
+* Pandas
+* Scikit-learn
+* XGBoost
+* AI-powered backend systems
 
-<h3 align="center">🔗 ORM & Data Layer</h3>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prisma" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
-</p>
-
-<br>
-
-<h3 align="center">🚀 Architecture & Deployment</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=serverless&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-# 🚀 What I Do
+# 🔧 Backend Areas I Work With
 
 ```text
-Backend Development      ████████████████████
-REST API Development     ████████████████████
-Database Design          ███████████████████░
-AI / LLM Integration     █████████████████░░░
-Docker & DevOps          ████████████████░░░░
-CI/CD                    ████████████████░░░░
+REST API Development
+Authentication & Authorization
+Database Design
+Webhook Integrations
+Transaction Processing
+External API Integration
+Dockerized Applications
+CI/CD
+Machine Learning Integration
+LLM / AI Integration
 ```
 
 ---
 
-# 💼 Experience
+# 🎯 Currently Improving
 
-### Backend Developer & Machine Learning Engineer
-
-* Built web applications using **React, Next.js, Node.js and Express.js**
-* Worked with **PostgreSQL, MySQL and MongoDB**
-* Designed schemas and database queries using **Prisma and Drizzle**
-* Integrated **Machine Learning models into backend services**
-* Used **Docker and GitHub Actions** for CI/CD and application deployment
-* Built and integrated reliable REST APIs
+* Backend architecture
+* API scalability
+* PostgreSQL optimization
+* Microservices
+* Automated testing
+* CI/CD
+* Production deployment
+* AI-powered backend systems
 
 ---
 
-
-
-# 🎯 Currently Focused On
-
-* ⚙️ Advanced **Backend Architecture**
-* 📦 Microservices
-* ⚡ API Performance Optimization
-* 🗄️ Database Design & Optimization
-* 🤖 AI-powered Backend Applications
-* 🧠 RAG & LLM Applications
-  
----
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bereket-tadesse-72b237232/">
@@ -231,3 +256,7 @@ CI/CD                    ████████████████░░�
 </p>
 
 ---
+
+<p align="center">
+  <b>Thanks for visiting my profile 🚀</b>
+</p>
