@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bereket%20Tadesse&fontSize=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bereket%20Tadesse&fontSize=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Engineer%20%7C%20AI%20Integration&descAlignY=55&animation=fadeIn"
     width="100%"
   />
 </p>
